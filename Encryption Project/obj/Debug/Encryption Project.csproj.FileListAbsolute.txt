@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Encryption Project\Encryption Project\bin\Debug\Encryption Project.exe.config
+C:\Users\user\source\repos\Encryption Project\Encryption Project\bin\Debug\Encryption Project.exe
+C:\Users\user\source\repos\Encryption Project\Encryption Project\bin\Debug\Encryption Project.pdb
+C:\Users\user\source\repos\Encryption Project\Encryption Project\bin\Debug\MatrixLibrary.dll
+C:\Users\user\source\repos\Encryption Project\Encryption Project\bin\Debug\MatrixLibrary.pdb
+C:\Users\user\source\repos\Encryption Project\Encryption Project\obj\Debug\Encryption Project.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Encryption Project\Encryption Project\obj\Debug\Encryption Project.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Encryption Project\Encryption Project\obj\Debug\Encryption Project.csproj.CopyComplete
+C:\Users\user\source\repos\Encryption Project\Encryption Project\obj\Debug\Encryption Project.exe
+C:\Users\user\source\repos\Encryption Project\Encryption Project\obj\Debug\Encryption Project.pdb
